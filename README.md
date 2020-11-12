@@ -7,3 +7,6 @@ A simple project using jQuery to add my developer skills to a list
 -CSS3
 -JavaScript
 -jQuery
+
+## Obstacles
+make delete button work
